@@ -1,0 +1,2 @@
+# Anomaly-Detection-Techniques-In-Crowded-Areas
+Anomaly Detection Techniques In Crowded Areas,3D CNN, Spatio- Temporal Autocoders(DL). Video is taken as input and Frames were divided and detects that were they any anomaly action taken place.The spatial and temporal information is extracted. The abnormal events are detected by computing the reconstruction loss using Euclidean distance between original image and reconstructed image
